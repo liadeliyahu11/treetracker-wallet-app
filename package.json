@@ -1,7 +1,6 @@
 {
   "name": "treetracker-wallet-app",
   "version": "1.0.0",
-  "packageManager": "yarn@1.22.19",
   "main": "index.js",
   "repository": "",
   "author": "",
